@@ -1,6 +1,3 @@
-Author: Katarzyna Brzeski.
-4th-year Informatics student, AI & Data Science specialization
-
 
 # Intelligent Customer Segmentation
 
@@ -55,6 +52,7 @@ This type of analysis can support:
 - Customer retention and churn prediction
 - Market segmentation and profiling
 
-
+Author: Katarzyna Brzeski.
+4th-year Informatics student, AI & Data Science specialization
 
 
